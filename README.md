@@ -1,47 +1,182 @@
-# 💼 Developer Portfolio - Oshada Nethmina
 
-Welcome to my personal portfolio! I'm a passionate software developer focused on building efficient, scalable, and user-friendly digital solutions. This repository contains the code and documentation for my portfolio website.
+# 💼 **Developer Portfolio — Oshada Nethmina**
 
-## 🧑‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Oshada+Nethmina;Full+Stack+Developer;Cyber+Security+Learner;AI%2FML+Enthusiast;Welcome+to+My+GitHub+Profile!">
+</div>
 
-Hi, I'm **Oshada nethmina**, a [your role – e.g., Full-Stack Developer] based in [your location]. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+<br>
 
-- 🔭 I’m currently working on: [Project or learning goal]
-- 🌱 I’m currently learning: [Technology/language/tool]
-- 👯 I’m looking to collaborate on: Open-source or freelance projects
-- 💬 Ask me about: Web development, UI/UX, and APIs
-- 📫 How to reach me: [oshadanethminamunasingha@gmail.com]
-- 🌐 Portfolio Website: [https://your-portfolio-site.com](https://your-portfolio-site.com)
+<div align="center">
 
-## 🛠️ Technologies & Tools
+![Profile Views](https://komarev.com/ghpvc/?username=Oshada-Nethmina\&color=blue)
+![Followers](https://img.shields.io/github/followers/Oshada-Nethmina?style=flat)
+![Stars](https://img.shields.io/github/stars/Oshada-Nethmina?style=flat)
 
-- 💻 Languages: HTML, CSS, JavaScript, TypeScript, Python, java
-- ⚙️ Frameworks: React, Node.js, Express, Django, Springboot, ReactNative
-- 🛢️ Databases: MongoDB, MySQL, PostgreSQL
-- 🔧 Tools: Git, GitHub, VSCode, Postman, Docker
-- ☁️ Platforms: Vercel, Firebase, AWS
+</div>
 
-## 📂 Projects
+---
 
-Here are a few highlights from my portfolio:
+## 👨‍💻 **About Me**
 
-### 🔹 Project One – *Smart Task Manager*
-A web-based productivity tool to manage tasks and deadlines collaboratively.
-- **Tech stack**: React, Node.js, MongoDB
-- **Live demo**: [demo-link](https://demo-link.com)
-- **GitHub**: [repository](https://github.com/yourusername/project-one)
+Hi, I'm **Oshada Nethmina**, a passionate **Full-Stack Developer** exploring the worlds of **Cyber Security** and **AI/ML**.
+I love turning complex ideas into intuitive, functional, and high-performing digital products.
 
-### 🔹 Project Two – *E-commerce Store*
-An e-commerce site with cart, user auth, and admin dashboard.
-- **Tech stack**: Django, Bootstrap, SQLite
-- **Live demo**: [demo-link](https://demo-link.com)
-- **GitHub**: [repository](https://github.com/yourusername/project-two)
+### ⭐ **What I Do**
 
-## 🖥️ Screenshots
+* 🌐 Build modern web & mobile applications
+* 🔐 Practice cyber security fundamentals
+* 🤖 Explore AI/ML concepts and real-world applications
+* 🚀 Create scalable backend systems
+* 🎨 Craft responsive, user-focused UIs
 
-| Home Page | Project Page |
-|----------|--------------|
+### 📌 **Quick Facts**
+
+* 🔭 Currently working on: Full-stack projects & personal portfolio
+* 🌱 Learning: Cyber Security, Machine Learning, DevOps
+* 👯 Open to collaborate on: Open-source, full-stack & mobile apps
+* 💬 Ask me about: Web apps, APIs, mobile apps, security basics
+* 📫 Email: **[oshadanethminamunasingha@gmail.com](mailto:oshadanethminamunasingha@gmail.com)**
+* 🌐 Portfolio: *Coming soon…*
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Languages**
+
+<span>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+</span>
+
+### **Frameworks & Libraries**
+
+<span>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,flutter,reactnative" />
+</span>
+
+### **Databases**
+
+<span>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</span>
+
+### **Tools & Platforms**
+
+<span>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,firebase,aws" />
+</span>
+
+### **Exploring**
+
+<span>
+<img src="https://skillicons.dev/icons?i=linux,tensorflow" />
+</span>
+
+---
+
+## 🧩 **Projects**
+
+### 🚀 **Smart Task Manager**
+
+> A collaborative productivity tool for managing tasks and deadlines.
+
+* **Tech Stack:** React, Node.js, MongoDB
+  🔗 *Live demo:* coming soon
+  📁 *Repo:* [https://github.com/Oshada-Nethmina](https://github.com/Oshada-Nethmina)
+
+---
+
+### 🛒 **E-Commerce Store**
+
+> Complete e-commerce platform with authentication, cart, and admin dashboard.
+
+* **Tech Stack:** Django, SQLite
+  🔗 *Live demo:* coming soon
+  📁 *Repo:* [https://github.com/Oshada-Nethmina](https://github.com/Oshada-Nethmina)
+
+---
+
+## 🖥️ **Screenshots**
+
+| Home Page                                | Projects Page                                    |
+| ---------------------------------------- | ------------------------------------------------ |
 | ![Home Screenshot](screenshots/home.png) | ![Projects Screenshot](screenshots/projects.png) |
 
-## 📁 Folder Structure
+---
+
+## 🛣️ **My Developer Journey**
+
+* 🚀 **2022:** Started learning programming
+* 💻 **2023:** Built my first full-stack applications
+* 📱 **2024:** Learned Flutter & backend development
+* 🔐 **2025:** Diving deeper into Cyber Security & AI/ML
+
+---
+
+## 🎉 **Fun Facts**
+
+* ⚡ I love problem-solving
+* ☕ Coffee is my fuel
+* 🎧 I code with music
+* 🎮 Enjoy building side projects and gaming
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oshada-Nethmina&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshada-Nethmina&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 **GitHub Streak**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Oshada-Nethmina&theme=tokyonight" />
+</div>
+
+---
+
+## 📈 **GitHub Activity Graph**
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Oshada-Nethmina\&theme=tokyo-night)
+
+</div>
+
+---
+
+## 🐍 **Contribution Snake Animation**
+
+<div align="center">
+
+![Snake animation](https://github.com/Oshada-Nethmina/Oshada-Nethmina/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🧊 **3D Contribution Calendar**
+
+<div align="center">
+
+![3D Calendar](https://raw.githubusercontent.com/Oshada-Nethmina/Oshada-Nethmina/output/profile-3d-contrib/profile-night-view.svg)
+
+</div>
+
+---
+
+## 👣 **Footer**
+
+<div align="center">
+  <br>
+  <p>✨ Made with passion by <b>Oshada Nethmina</b> ✨</p>
+</div>
+
 
