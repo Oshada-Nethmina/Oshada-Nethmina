@@ -45,31 +45,31 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 ### **Languages**
 
 <span>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" />
 </span>
 
 ### **Frameworks & Libraries**
 
 <span>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,flutter,reactnative" />
+<img align="center" src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,flutter,reactnative" />
 </span>
 
 ### **Databases**
 
 <span>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img align="center" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </span>
 
 ### **Tools & Platforms**
 
 <span>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,firebase,aws" />
+<img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,firebase,aws" />
 </span>
 
 ### **Exploring**
 
 <span>
-<img src="https://skillicons.dev/icons?i=linux,tensorflow" />
+<img align="center" src="https://skillicons.dev/icons?i=linux,tensorflow" />
 </span>
 
 ---
