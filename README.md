@@ -45,13 +45,13 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 ### **Languages**
 
 <span>
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,C#" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs" />
 </span>
 
 ### **Frameworks & Libraries**
 
 <span>
-<img align="center" src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,flutter,reactnative,ASP.NET" />
+<img align="center" src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,flutter,reactnative,dotnet" />
 </span>
 
 ### **Databases**
