@@ -122,12 +122,13 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oshada-Nethmina&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshada-Nethmina&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Oshada-Nethmina&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Oshada-Nethmina&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -161,11 +162,11 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 ---
 
-## 🧊 **3D Contribution Calendar**
+## 🧊 3D Contribution Calendar
 
 <div align="center">
 
-![3D Calendar](https://raw.githubusercontent.com/Oshada-Nethmina/Oshada-Nethmina/output/profile-3d-contrib/profile-night-view.svg)
+<img src="https://raw.githubusercontent.com/Oshada-Nethmina/Oshada-Nethmina/output/profile-3d-contrib/profile-night-view.svg" />
 
 </div>
 
