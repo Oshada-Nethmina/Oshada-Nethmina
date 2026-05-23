@@ -152,13 +152,13 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 ---
 
-## 🐍 **Contribution Snake Animation**
+## 🐍 Contribution Snake Animation
 
-<h2 align="center">🐍 Contribution Activity</h2>
-# 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" width="100%">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Oshada-Nethmina/Oshada-Nethmina/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
