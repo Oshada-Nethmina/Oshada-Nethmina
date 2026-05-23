@@ -36,7 +36,7 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 * 👯 Open to collaborate on: Open-source, full-stack & mobile apps
 * 💬 Ask me about: Web apps, APIs, mobile apps, security basics
 * 📫 Email: **[oshadanethminamunasingha@gmail.com](mailto:oshadanethminamunasingha@gmail.com)**
-* 🌐 Portfolio: oshada.me
+* 🌐 Portfolio: https://oshada.me/
 
 ---
 
