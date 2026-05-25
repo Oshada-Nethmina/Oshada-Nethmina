@@ -166,7 +166,7 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Oshada-Nethmina/Oshada-Nethmina/output/profile-night-view.svg" />
+<img src="https://raw.githubusercontent.com/Oshada-Nethmina/Oshada-Nethmina/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
