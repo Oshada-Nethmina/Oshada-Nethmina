@@ -152,16 +152,6 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Oshada-Nethmina/Oshada-Nethmina/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## 🧊 3D Contribution Calendar
 
 <div align="center">
