@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="300" viewBox="0 0 460 300" role="img" aria-label="Terminal: Oshada Nethmina, Full-Stack Developer">
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-size: 13px; }
+    .p { fill: #00c8ff; font-weight: 700; }
+    .c { fill: #e6edf3; }
+    .o { fill: #a9b1d6; }
+    .g { fill: #7ee787; }
+    .y { fill: #ffa657; }
+    .l { opacity: 0; animation: show .01s linear forwards; }
+    .type { clip-path: inset(0 100% 0 0); animation: type .9s steps(28, end) forwards; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes type { to { clip-path: inset(0 0 0 0); } }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="458" height="298" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h434 a12 12 0 0 1 12 12 v19 h-458 z" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="17" r="6" fill="#27c93f"/>
+  <text x="230" y="21" text-anchor="middle" class="mono o" style="font-size:12px">oshada@dev: ~</text>
+
+  <g class="mono">
+    <g class="l" style="animation-delay:.2s"><text x="20" y="62"><tspan class="p">❯ </tspan><tspan class="c type" style="animation-delay:.2s">whoami</tspan></text></g>
+    <text x="20" y="84" class="g l" style="animation-delay:1.2s">Oshada Nethmina · Full-Stack Developer</text>
+
+    <g class="l" style="animation-delay:1.8s"><text x="20" y="114"><tspan class="p">❯ </tspan><tspan class="c">cat focus.txt</tspan></text></g>
+    <text x="20" y="136" class="o l" style="animation-delay:2.6s">Backend systems · Clean Architecture</text>
+    <text x="20" y="156" class="o l" style="animation-delay:2.8s">Secure APIs · Real-time apps</text>
+
+    <g class="l" style="animation-delay:3.4s"><text x="20" y="186"><tspan class="p">❯ </tspan><tspan class="c">ls ./stack</tspan></text></g>
+    <text x="20" y="208" class="y l" style="animation-delay:4.2s">spring-boot  nestjs  dotnet  nextjs</text>
+    <text x="20" y="228" class="y l" style="animation-delay:4.4s">postgres  mongodb  docker  aws</text>
+
+    <g class="l" style="animation-delay:5.0s"><text x="20" y="258"><tspan class="p">❯ </tspan><tspan class="c">echo $STATUS</tspan></text></g>
+    <text x="20" y="280" class="g l" style="animation-delay:5.8s">Open to collaborate<tspan class="cursor" fill="#00c8ff"> ▌</tspan></text>
+  </g>
+</svg>

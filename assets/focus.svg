@@ -1,1 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="170" viewBox="0 0 860 170" role="img" aria-label="Current focus: Backend engineering, Cyber security, AI and ML, DevOps">
+  <style>
+    .t { font-family: 'Segoe UI', -apple-system, 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .h { fill: #e6edf3; font-size: 16px; font-weight: 700; }
+    .d { fill: #9198a1; font-size: 12.5px; }
+    .tag { font-size: 11px; font-weight: 700; letter-spacing: .6px; }
+    .card { opacity: 0; transform: translateY(10px); animation: up .6s ease-out forwards; }
+    @keyframes up { to { opacity: 1; transform: translateY(0); } }
+    .dot { animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+  </style>
 
+  <g class="card t" style="animation-delay:.1s">
+    <rect x="1" y="1" width="202" height="168" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="1" y="1" width="202" height="4" rx="2" fill="#00c8ff"/>
+    <circle cx="26" cy="36" r="5" fill="#3fb950" class="dot"/>
+    <text x="38" y="40" class="tag" fill="#3fb950">BUILDING</text>
+    <text x="20" y="78" class="h">Backend Engineering</text>
+    <text x="20" y="104" class="d">Spring Boot, NestJS &amp; .NET</text>
+    <text x="20" y="124" class="d">Clean Architecture &amp; CQRS</text>
+    <text x="20" y="144" class="d">JWT / RBAC, WebSockets</text>
+  </g>
+
+  <g class="card t" style="animation-delay:.3s">
+    <rect x="219" y="1" width="202" height="168" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="219" y="1" width="202" height="4" rx="2" fill="#f85149"/>
+    <circle cx="244" cy="36" r="5" fill="#d29922" class="dot"/>
+    <text x="256" y="40" class="tag" fill="#d29922">LEARNING</text>
+    <text x="238" y="78" class="h">Cyber Security</text>
+    <text x="238" y="104" class="d">Secure coding &amp; OWASP</text>
+    <text x="238" y="124" class="d">Auth hardening</text>
+    <text x="238" y="144" class="d">Linux &amp; networking basics</text>
+  </g>
+
+  <g class="card t" style="animation-delay:.5s">
+    <rect x="437" y="1" width="202" height="168" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="437" y="1" width="202" height="4" rx="2" fill="#a371f7"/>
+    <circle cx="462" cy="36" r="5" fill="#a371f7" class="dot"/>
+    <text x="474" y="40" class="tag" fill="#a371f7">EXPLORING</text>
+    <text x="456" y="78" class="h">AI / ML</text>
+    <text x="456" y="104" class="d">Python, TensorFlow</text>
+    <text x="456" y="124" class="d">Applying ML to real</text>
+    <text x="456" y="144" class="d">product problems</text>
+  </g>
+
+  <g class="card t" style="animation-delay:.7s">
+    <rect x="655" y="1" width="202" height="168" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="655" y="1" width="202" height="4" rx="2" fill="#ffa657"/>
+    <circle cx="680" cy="36" r="5" fill="#d29922" class="dot"/>
+    <text x="692" y="40" class="tag" fill="#d29922">LEARNING</text>
+    <text x="674" y="78" class="h">DevOps</text>
+    <text x="674" y="104" class="d">Docker, GitHub Actions</text>
+    <text x="674" y="124" class="d">CI/CD pipelines</text>
+    <text x="674" y="144" class="d">cloud deploys on AWS</text>
+  </g>
+</svg>
