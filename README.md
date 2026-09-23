@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://oshada.me/"><img src="https://img.shields.io/badge/Portfolio-oshada.me-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:oshadanethminamunasingha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/oshada-nethmina/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 I'm **Oshada**, a full-stack developer with a strong focus on **backend systems** — clean architecture, secure APIs and real-time features. I'm an undergraduate Software Engineering student who enjoys turning messy real-world problems into reliable, well-structured software.
 
-- 🔭 Building production-style systems with **Spring Boot, NestJS, .NET & Next.js**
+- 🔭 Building production-style systems with **Spring Boot, .NET, NestJS & Next.js**
 - 🌱 Learning **Cyber Security, Machine Learning & DevOps**
 - 🤝 Open to collaborate on **open-source, full-stack & mobile apps**
 - 💬 Ask me about **REST APIs, auth (JWT/RBAC), WebSockets, databases**
