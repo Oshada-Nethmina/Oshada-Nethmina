@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://oshada.me/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Backend+%26+API+Engineer;Spring+Boot+%E2%80%A2+NestJS+%E2%80%A2+.NET;Exploring+Cyber+Security+%26+AI%2FML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Backend+%26+API+Engineer;Spring+Boot+%E2%80%A2+.NET+%E2%80%A2+NestJS;Exploring+Cyber+Security+%26+AI%2FML" alt="Typing SVG" />
   </a>
 </p>
 
