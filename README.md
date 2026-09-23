@@ -150,7 +150,7 @@ const oshada = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Oshada-Nethmina&bg_color=0d1117&color=00c8ff&line=00c8ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution activity" />
 </p>
 
 ---
