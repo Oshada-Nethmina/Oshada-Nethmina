@@ -74,36 +74,6 @@ I love turning complex ideas into intuitive, functional, and high-performing dig
 
 ---
 
-## 🧩 **Projects**
-
-### 🚀 **Smart Task Manager**
-
-> A collaborative productivity tool for managing tasks and deadlines.
-
-* **Tech Stack:** React, Node.js, MongoDB
-  🔗 *Live demo:* coming soon
-  📁 *Repo:* [https://github.com/Oshada-Nethmina](https://github.com/Oshada-Nethmina)
-
----
-
-### 🛒 **E-Commerce Store**
-
-> Complete e-commerce platform with authentication, cart, and admin dashboard.
-
-* **Tech Stack:** Django, SQLite
-  🔗 *Live demo:* coming soon
-  📁 *Repo:* [https://github.com/Oshada-Nethmina](https://github.com/Oshada-Nethmina)
-
----
-
-## 🖥️ **Screenshots**
-
-| Home Page                                | Projects Page                                    |
-| ---------------------------------------- | ------------------------------------------------ |
-| ![Home Screenshot](screenshots/home.png) | ![Projects Screenshot](screenshots/projects.png) |
-
----
-
 ## 🛣️ **My Developer Journey**
 
 * 🚀 **2022:** Started learning programming
